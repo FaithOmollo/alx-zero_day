@@ -1,1 +1,1 @@
-Explores git functions
+**Explores git functions**
