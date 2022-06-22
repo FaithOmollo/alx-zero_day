@@ -1,1 +1,1 @@
-**Explores git functions**
+This is a changed README.md
